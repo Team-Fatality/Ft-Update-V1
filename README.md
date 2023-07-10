@@ -1,6 +1,7 @@
 Fatality Update 1 👨🏼‍💻
 
 INSTALLATION INSTRUCTIONS
+
  🔷 Download base files
  🔷 setup basic esx server and replace these files
  🔷 Now upload database
