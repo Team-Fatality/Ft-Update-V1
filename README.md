@@ -1,11 +1,11 @@
 Fatality Update 1
 
 INSTALLATION INSTRUCTIONS
- 1. go to https://discord.com/developers/applications and click "New Application" in the top right
- 2. Give your application a name, this will show up on the top of the RPC tab.
- 3. Now upload all of the images in the file named "IMAGES" (KEEP IN MIND DISCORD TAKES A WHILE TO UPLOAD THESE, SO WAIT AFTER UPLOADING.) 
- 4. Set up your config below
-
+ 1. Download base files
+ 2. setup basic esx server and replace these files
+ 3. Now upload database
+ 4. Set up your Server.cfg file (add sql connection and your cfx key)
+ 5. All good Its ready to play
 
 
 If you are still having troubles, Get help from Team Fatality.
