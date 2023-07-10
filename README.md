@@ -14,7 +14,7 @@
 
 ### Ft Update 3
 
-Recent release⚡
+Recent Paid release⚡
 
 https://drive.google.com/file/d/1ZTOj0ot3mnWr3oeAyCTYKpmLtp0oBMEG/view?usp=sharing
 
