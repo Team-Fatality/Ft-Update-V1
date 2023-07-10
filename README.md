@@ -2,7 +2,7 @@
 
 ### INSTALLATION INSTRUCTIONS
 
-  1. 🔷 Download base files
+  1. 🔷 Download base files added in resources folder
   1. 🔷 setup basic esx server and replace these files
   1. 🔷 Now upload database
   1. 🔷 Set up your Server.cfg file (add sql connection and your cfx key)
