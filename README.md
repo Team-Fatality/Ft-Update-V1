@@ -1,6 +1,6 @@
-Fatality Update 1 👨🏼‍💻
+### Fatality Update 1 👨🏼‍💻
 
-INSTALLATION INSTRUCTIONS
+### INSTALLATION INSTRUCTIONS
 
   1. 🔷 Download base files
   1. 🔷 setup basic esx server and replace these files
@@ -18,7 +18,7 @@ Recent release⚡
 
 https://drive.google.com/file/d/1ZTOj0ot3mnWr3oeAyCTYKpmLtp0oBMEG/view?usp=sharing
 
-DISCLAMER 🚨
+### DISCLAMER 🚨
   You are not allowed to sell this base
 
 
