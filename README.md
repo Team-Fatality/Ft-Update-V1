@@ -8,7 +8,10 @@ INSTALLATION INSTRUCTIONS
   1. 🔷 Set up your Server.cfg file (add sql connection and your cfx key)
   1. 🔷 All good Its ready to play
 
-
+<>
+<>
+<>
+<>
 
 💎 If you are still having troubles, Get help from Team Fatality.
 
