@@ -12,10 +12,15 @@ INSTALLATION INSTRUCTIONS
 
 💎 If you are still having troubles, Get help from Team Fatality.
 
+### Ft Update 3
 
+Recent release⚡
+
+https://drive.google.com/file/d/1ZTOj0ot3mnWr3oeAyCTYKpmLtp0oBMEG/view?usp=sharing
 
 DISCLAMER 🚨
   You are not allowed to sell this base
+
 
 
 
