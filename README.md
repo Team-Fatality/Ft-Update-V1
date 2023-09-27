@@ -16,7 +16,7 @@
 
 Recent Paid release⚡
 
-https://drive.google.com/file/d/1ZTOj0ot3mnWr3oeAyCTYKpmLtp0oBMEG/view?usp=sharing
+https://www.youtube.com/watch?v=2__g_R-5gJw
 
 ### DISCLAMER 🚨
   You are not allowed to sell this base
